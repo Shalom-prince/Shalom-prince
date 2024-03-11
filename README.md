@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shalom-prince
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning frontend development 
 - 😄 Pronouns: He/Him
 
 <!---
